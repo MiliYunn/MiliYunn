@@ -46,27 +46,10 @@ I'm especially interested in **Web Development, Artificial Intelligence, and Sof
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MiliYunn&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiliYunn&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MiliYunn&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiliYunn&hide_border=true" />
 </p>
 
 ---
